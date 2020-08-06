@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "5e8ef39364708339a4e4f123"
+  },
+  "role_name": "root",
+  "role_list": [
+    "WAM_USER",
+    "DASHBOARD_DASHBOARD_READ"
+  ]
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "5e7204eb983fd50938169dae"
+  },
+  "username": "test",
+  "password": "670b14728ad9902aecba32e22fa4f6bd",
+  "email": "324324324@qq.com",
+  "lock": false,
+  "roles": []
+},{
+  "_id": {
+    "$oid": "5e8ef39364708339a4e4f124"
+  },
+  "username": "root",
+  "password": "670b14728ad9902aecba32e22fa4f6bd",
+  "email": "1232132@qq.com",
+  "lock": false,
+  "roles": [
+    {
+      "_id": {
+        "$oid": "5e8ef39364708339a4e4f123"
+      },
+      "role_name": "root",
+      "role_list": [
+        "WAM_USER",
+        "DASHBOARD_DASHBOARD_READ"
+      ]
+    }
+  ]
+}]
